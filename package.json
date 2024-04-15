@@ -1,8 +1,8 @@
 {
   "name": "fabricjs-example",
   "version": "0.1.0",
-  "homepage": "https://hsk-kr.github.io/react-fabricjs-example",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
